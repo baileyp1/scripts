@@ -13,6 +13,7 @@ mapsPart2File=$3
 mapsPart2ResultsFile=$4
 infoTable=$5
 
+########
 
 # Extract the number of SNP calls from the maps-part2_*.txt files.
 # Prepare the input sample info table without the header:
